@@ -1,1 +1,0 @@
-# prompt-engineering-practice-assignment-2
